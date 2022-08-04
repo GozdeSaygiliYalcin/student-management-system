@@ -1,0 +1,6 @@
+Mobilya Dükkanı olsun OK
+Dükkanda farklı setler var (Bahçe, Çocuk, Salon)
+Farklı tür mobilyalar var (Koltuk, İskemle, dolap, masaOK)
+Bahçe mobilyaları suya dayanıklı olmalı  (bunun yerine extendable yaptık)
+Mobilyaların malzemesi var (ahşap, plastik) OK
+Ahşapların ayda bir cilalanması gerekli OK

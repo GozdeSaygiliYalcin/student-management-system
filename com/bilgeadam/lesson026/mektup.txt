@@ -1,0 +1,5 @@
+In this tutorial, we're going to take a first look at the Lambda support in Java 8, specifically how to leverage it to write the Comparator and sort a Collection.
+
+This article is part of the “Java – Back to Basic” series here on Baeldung.
+
+https://www.baeldung.com/

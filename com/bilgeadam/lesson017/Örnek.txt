@@ -1,0 +1,8 @@
+Gerçek dünyada bir kişinin özellikleri
+	1) adı - soyadı
+	2) boyu
+	3) maaşı
+	4) göz rengi
+	5) 100 metreyi kaç saniyede koşuyor
+	6) bildiği programlama dili 
+	7) id numarası
